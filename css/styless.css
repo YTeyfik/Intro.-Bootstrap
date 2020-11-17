@@ -31,3 +31,10 @@
 .leader{
     margin: 25px 0px 25px 0px;
 }
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #512DA8;
+}
