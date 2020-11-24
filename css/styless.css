@@ -59,3 +59,12 @@ body{
     left: 0;
     min-height: 300px;
 }
+.mm{
+    margin-left: 5px;
+}
+.xx{
+    margin-left: -15px;
+}
+.yy{
+    margin-left: 10px;
+}
